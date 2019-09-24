@@ -84,6 +84,10 @@ const CHECK_HEIGHT = [
     selector: ".tester--viewport-height",
   },
   {
+    label: "100%",
+    selector: ".tester--height-100",
+  },
+  {
     label: "available",
     selector: ".tester--available",
   },
